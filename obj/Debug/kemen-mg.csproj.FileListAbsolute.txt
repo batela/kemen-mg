@@ -1,0 +1,14 @@
+D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen-MG\bin\Debug\kemen-mg.exe.config
+D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen-MG\obj\Debug\kemen-mg.exe
+D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen-MG\obj\Debug\kemen-mg.pdb
+D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen-MG\bin\Debug\kemen-mg.exe
+D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen-MG\bin\Debug\kemen-mg.pdb
+D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen-MG\obj\Debug\ResolveAssemblyReference.cache
+D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen-MG\obj\Debug\kemen.Datos.resources
+D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen-MG\obj\Debug\kemen.Graficas.resources
+D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen-MG\obj\Debug\kemen.KemenMini.resources
+D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen-MG\obj\Debug\kemen.kemen.resources
+D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen-MG\obj\Debug\kemen.Launcher.resources
+D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen-MG\obj\Debug\kemen.Periferia.resources
+D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen-MG\obj\Debug\kemen.Properties.Resources.resources
+D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen-MG\obj\Debug\kemen-mg.csproj.GenerateResource.Cache
